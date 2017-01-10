@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Hello" type="CLASS" />
+      <mapping pattern="ProgressFile" type="PLAIN_TEXT" />
       <mapping pattern="Sicherheitscode" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
