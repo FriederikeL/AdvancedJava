@@ -58,6 +58,10 @@
           <option name="url" value="http://luedtke@lambda.informatik.uni-tuebingen.de/gitlab/sbml/BioModeler.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://luedtke@lambda.informatik.uni-tuebingen.de/gitlab/sbml/BioModeler.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\user\IdeaProjects" />
